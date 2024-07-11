@@ -1,2 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://jegerology.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://jegerology.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 01:50:23 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://jegerology.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://jegerology.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 01:52:31 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>基因家族分析——基础</title><link>https://jegerology.github.io/post/ji-yin-jia-zu-fen-xi-%E2%80%94%E2%80%94-ji-chu.html</link><description># 1. 基因家族成员鉴定&#13;
+## 1.1 常用数据库&#13;
+- NCBI&#13;
+&#13;
+## 1.2 blast 和 hmmer 安装及使用&#13;
+&#13;
+## 1.3 鉴定结果数据处理&#13;
+&#13;
+# 2. Domain 和 Motif 分析&#13;
+&#13;
+# 3. 基因结构分析&#13;
+&#13;
+# 4. 顺势作用元件分析&#13;
+&#13;
+# 5. 蛋白理化性质及结构分析&#13;
+&#13;
+#。</description><guid isPermaLink="true">https://jegerology.github.io/post/ji-yin-jia-zu-fen-xi-%E2%80%94%E2%80%94-ji-chu.html</guid><pubDate>Thu, 11 Jul 2024 01:50:02 +0000</pubDate></item></channel></rss>
