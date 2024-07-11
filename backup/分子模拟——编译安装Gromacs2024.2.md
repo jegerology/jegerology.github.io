@@ -1,4 +1,5 @@
-**视频演示链接：【Gromacs2024.2版安装全程及代码分享-纯干货】 https://www.bilibili.com/video/BV1GM4m1m7uq/?share_source=copy_web&vd_source=e986a18a26b36d1763a9c84f951a2ff0**
+> [!NOTE]
+> **视频演示链接：【Gromacs2024.2版安装全程及代码分享-纯干货】 https://www.bilibili.com/video/BV1GM4m1m7uq/?share_source=copy_web&vd_source=e986a18a26b36d1763a9c84f951a2ff0**
 
 
 # 准备工作-_Preparatory work_
