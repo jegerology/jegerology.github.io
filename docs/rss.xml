@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Jer's Blog——Life is now</title><link>https://jegerology.github.io</link><description>逍遥青山外，亦闻尘世风。</description><copyright>Jer's Blog——Life is now</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.pixabay.com/photo/2018/02/27/01/55/gene-icon-3184523_640.png</url><title>avatar</title><link>https://jegerology.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 02:33:56 +0000</lastBuildDate><managingEditor>Jer's Blog——Life is now</managingEditor><ttl>60</ttl><webMaster>Jer's Blog——Life is now</webMaster><item><title>量子化学——基础（1）</title><link>https://jegerology.github.io/post/liang-zi-hua-xue-%E2%80%94%E2%80%94-ji-chu-%EF%BC%881%EF%BC%89.html</link><description># 1. 研究领域框架&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Jer's Blog——Life is now</title><link>https://jegerology.github.io</link><description>逍遥青山外，亦闻尘世风。</description><copyright>Jer's Blog——Life is now</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.pixabay.com/photo/2018/02/27/01/55/gene-icon-3184523_640.png</url><title>avatar</title><link>https://jegerology.github.io</link></image><lastBuildDate>Thu, 11 Jul 2024 02:35:27 +0000</lastBuildDate><managingEditor>Jer's Blog——Life is now</managingEditor><ttl>60</ttl><webMaster>Jer's Blog——Life is now</webMaster><item><title>量子化学——基组与Gaussian</title><link>https://jegerology.github.io/post/liang-zi-hua-xue-%E2%80%94%E2%80%94-ji-zu-yu-Gaussian.html</link><description># 1. 基础&#13;
+&#13;
+# 2. Gaussian基础&#13;
+&#13;
+## 2.1 Guass View基础&#13;
+&#13;
+# 3. 单点能计算。</description><guid isPermaLink="true">https://jegerology.github.io/post/liang-zi-hua-xue-%E2%80%94%E2%80%94-ji-zu-yu-Gaussian.html</guid><pubDate>Thu, 11 Jul 2024 02:35:03 +0000</pubDate></item><item><title>量子化学——基础（1）</title><link>https://jegerology.github.io/post/liang-zi-hua-xue-%E2%80%94%E2%80%94-ji-chu-%EF%BC%881%EF%BC%89.html</link><description># 1. 研究领域框架&#13;
 &#13;
 # 2. 操作系统&#13;
 &#13;
